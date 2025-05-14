@@ -2,6 +2,7 @@
 require_once 'Menu.php';
 require_once 'Util.php';
 
+
 try {
 $sessionId   = $_POST["sessionId"] ?? '';
 $serviceCode = $_POST["serviceCode"] ?? '';
