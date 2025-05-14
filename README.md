@@ -60,7 +60,6 @@ This is a USSD application for the F&I Trading Platform that allows users to reg
    - Seller Services
    - Back option
 
-
 ## Troubleshooting
 
 1. **SMS Not Working**
