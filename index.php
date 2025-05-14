@@ -8,7 +8,6 @@ $serviceCode = $_POST["serviceCode"] ?? '';
 $phoneNumber = $_POST["phoneNumber"] ?? '';
 $text        = $_POST["text"] ?? '';
 
-
     $textArray = explode("*", $text);
 
     // Middleware - Create Menu object
